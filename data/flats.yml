@@ -1,0 +1,24 @@
+erikadesu:
+  owner: "Erika Deusa"
+  name: "Erika's castle"
+  description: "Charming castle in Montmartre"
+  city_name: "Paris, France"
+  city_slug: "paris"
+  wifi: false
+  rating: 5
+lguilins:
+  owner: "Louis Guillaume"
+  name: "Luiz' chateau"
+  description: Huge chateau in Tokyo
+  city_name: "Tokyo, Japan"
+  city_slug: "tokyo"
+  wifi: true
+  rating: 3
+pedrofcezar:
+  owner: "Pierre Cezar"
+  name: "Pedro's villa"
+  description: Nice villa in Piccadilly
+  city_name: "London, UK"
+  city_slug: "london"
+  wifi: true
+  rating: 5
