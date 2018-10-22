@@ -1,5 +1,5 @@
 #home {
-  background-color: $dark-pink;
+  background-color: $sortablue;
   color: white;
   height: 100vh;
   display: flex;
@@ -13,5 +13,12 @@
     color: rgba(0,0,0,0.4);
     font-weight: bold;
     font-size: 16px;
+  }
+}
+
+#home-flats {
+  background-color: $pastelpurple;
+  h2 {
+    padding-bottom: 20px;
   }
 }
